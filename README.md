@@ -4,11 +4,11 @@ Senior Computer Vision Engineer in Bonn, Germany. I build perception systems tha
 
 Two of my own projects are public here.
 
-## Featured project ? PokerFill AI Diagnostics
+## Featured project - PokerFill AI Diagnostics
 
 I built a read-only investigation agent for a fleet of Windows workers. An operator can ask why activity dropped during an incident, inspect the evidence behind each finding, and follow up in the same investigation.
 
-**[Try the interactive demo](https://pokerfill-ai-diagnostics.azurewebsites.net/demo)** ? **[Source and architecture](https://github.com/biresevit/PokerFill-AI-Diagnostics)**
+**[Try the interactive demo](https://pokerfill-ai-diagnostics.azurewebsites.net/demo)** | **[Source and architecture](https://github.com/biresevit/PokerFill-AI-Diagnostics)**
 
 The demo uses synthetic data. Start with the sample worker restart, open the cited evidence, and ask a follow-up.
 
